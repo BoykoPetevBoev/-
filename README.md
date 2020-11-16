@@ -1,3 +1,3 @@
 # Programming-Algorithms
 
-<img src="README/programming-algorithms" alt="programming-algorithms-book">
+<img src="https://github.com/BoykoPetevBoev/Programming-Algorithms/blob/main/README/programming-algorithms.jpg" alt="programming-algorithms-book">
